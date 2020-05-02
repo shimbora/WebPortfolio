@@ -164,8 +164,8 @@ main {
 }
 
 .feature img {
-  /* height: 200px; */
-  /* width: 310px; */
+  height: 200px;
+  width: 310px;
   margin-right: 100px;
   align-items: center;
 }
