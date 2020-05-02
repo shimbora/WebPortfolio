@@ -186,6 +186,10 @@ main {
 .feature__cta {
   cursor: pointer;
   transition: var(--transition);
+  position: fixed;
+  margin-top: 550px;
+  margin-right: 20px;
+  font-size: 20px;
 }
 
 .feature__cta:hover {
