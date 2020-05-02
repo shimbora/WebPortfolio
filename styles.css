@@ -55,7 +55,8 @@ header {
 }
 
 nav {
-  grid-column: 2 / span 6;
+  grid-column: 3 / span 6;
+  margin-top: 50px;
   display: flex;
   align-items: center;
 }
@@ -71,7 +72,7 @@ main {
 }
 
 .links a {
-  font-size: 1.0625rem;
+  font-size: 1.1rem;
   font-weight: 400;
   transition: var(--transition);
 }
@@ -187,8 +188,9 @@ main {
   cursor: pointer;
   transition: var(--transition);
   position: fixed;
-  margin-top: 550px;
+  margin-top: 530px;
   margin-right: 20px;
+  margin-left: 1100px;
   font-size: 20px;
 }
 
